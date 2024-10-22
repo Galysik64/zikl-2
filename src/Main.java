@@ -61,7 +61,6 @@ public class Main {
             if (period % 6 == 0)
                 System.out.println("Месяц " + period + " сумма накоплений равна " + contribution + " рублей.");
         }
-
         System.out.println("Задача 7");
         int friday = 1;
         for (int day = friday; day <= 31; day += 7) {
