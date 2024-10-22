@@ -1,6 +1,5 @@
 public class Main {
     public static void main(String[] args) {
-
         System.out.println("Задача 1");
         int savings = 0;
         int month = 15000;
